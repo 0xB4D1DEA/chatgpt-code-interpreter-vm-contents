@@ -1,0 +1,7 @@
+Content: {
+  "load_extensions": {
+    "jupyterlab-plotly/extension": true
+  }
+}
+
+================================================================================

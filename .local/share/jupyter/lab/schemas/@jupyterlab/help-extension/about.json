@@ -1,0 +1,26 @@
+Content: {
+  "jupyter.lab.menus": {
+    "main": [
+      {
+        "id": "jp-mainmenu-help",
+        "items": [
+          {
+            "command": "help:about",
+            "rank": 0
+          },
+          {
+            "type": "separator",
+            "rank": 0
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Help",
+  "description": "Help settings.",
+  "properties": {},
+  "additionalProperties": false,
+  "type": "object"
+}
+
+================================================================================

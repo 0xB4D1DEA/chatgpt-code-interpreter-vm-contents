@@ -1,0 +1,10 @@
+Content: {
+  "base_template": "base",
+  "mimetypes": {
+    "text/latex": true,
+    "text/tex": true,
+    "application/pdf": true
+  }
+}
+
+================================================================================
