@@ -1,0 +1,5 @@
+I spent an evening investigating the VM and dumped output files here.
+
+Feel free to use it if interested in investigating the file structure and default file contents that exist on ChatGPT 4.0's Advanced Data Analysis plugin.
+
+file_contents_outpul.txt is the raw exfil, and recreate_files_script.py parses it to recreate the file structure as it existed in the code interpreter's virtual machine. 
